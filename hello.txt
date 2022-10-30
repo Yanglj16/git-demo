@@ -1,4 +1,4 @@
 Hello Git!MASTER!
-Hello Git!
+Hello Git!HOT-FIX!
 Hello Git!
 
